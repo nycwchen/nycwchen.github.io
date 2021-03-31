@@ -147,7 +147,7 @@ header ul li a {
 
 }
 html { 
-    overflow-y: hidden; 
+    overflow-y: scroll; 
 }
 .submit{
     color: #000000;
